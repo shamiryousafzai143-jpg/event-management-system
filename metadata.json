@@ -1,0 +1,6 @@
+{
+  "name": "Nowshera Events Co.",
+  "description": "Event Registration & Management System for Nowshera Events Co. with real-time attendee tracking and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
